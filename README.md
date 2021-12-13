@@ -4,9 +4,9 @@
 This repository serves as a documentation of the workshop. In this workshop, we explored the data structures in Python (lists, tuples, sets and dictionaries), as well as iterations and functions.
 
 ## Python Workshop Series
-- Intro to Python for Non-Programmers
+- [Intro to Python for Non-Programmers](https://github.com/NYU-Shanghai-Data-Services/python-intro)
 - **Intro to Data Structures for Non-Programmers**
-- Intrro to Data Analysis for Non-Programmers
+- [Intrro to Data Analysis for Non-Programmers](https://github.com/NYU-Shanghai-Data-Services/python-data-analysis)
 
 ![image](https://user-images.githubusercontent.com/93502896/145762717-4774e363-0f2b-4b95-96b2-b85d06974f97.png)
 
